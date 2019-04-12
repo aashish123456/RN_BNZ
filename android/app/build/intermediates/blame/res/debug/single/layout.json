@@ -1,0 +1,270 @@
+[
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/ashish/.android/build-cache/20b77c4c04f99566e429d41e4c34c90e759c79c7/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_tooltip.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/ashish/.android/build-cache/20b77c4c04f99566e429d41e4c34c90e759c79c7/output/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/ashish/.android/build-cache/20b77c4c04f99566e429d41e4c34c90e759c79c7/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/redbox_view.xml",
+        "source": "/Users/ashish/.android/build-cache/5d30eaecbff8abee232845ac4ab775a6d85914bf/output/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/com_facebook_tooltip_bubble.xml",
+        "source": "/Users/ashish/.android/build-cache/87279282c6c8ea18f35e1dc4db953be22f4d8558/output/res/layout/com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/ashish/.android/build-cache/20b77c4c04f99566e429d41e4c34c90e759c79c7/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_round.xml",
+        "source": "/Users/ashish/.android/build-cache/ee1c72974d77b0b9c2403d67dce33cf9ac2ca774/output/res/layout/messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/ashish/.android/build-cache/20b77c4c04f99566e429d41e4c34c90e759c79c7/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/ashish/.android/build-cache/b46ee297ed3cde7b38d9b7930b879a861f38eb33/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_small.xml",
+        "source": "/Users/ashish/.android/build-cache/ee1c72974d77b0b9c2403d67dce33cf9ac2ca774/output/res/layout/messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_large.xml",
+        "source": "/Users/ashish/.android/build-cache/ee1c72974d77b0b9c2403d67dce33cf9ac2ca774/output/res/layout/messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/dev_loading_view.xml",
+        "source": "/Users/ashish/.android/build-cache/5d30eaecbff8abee232845ac4ab775a6d85914bf/output/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/ashish/.android/build-cache/20b77c4c04f99566e429d41e4c34c90e759c79c7/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/redbox_item_frame.xml",
+        "source": "/Users/ashish/.android/build-cache/5d30eaecbff8abee232845ac4ab775a6d85914bf/output/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/redbox_item_title.xml",
+        "source": "/Users/ashish/.android/build-cache/5d30eaecbff8abee232845ac4ab775a6d85914bf/output/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/ashish/.android/build-cache/b46ee297ed3cde7b38d9b7930b879a861f38eb33/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_large.xml",
+        "source": "/Users/ashish/.android/build-cache/ee1c72974d77b0b9c2403d67dce33cf9ac2ca774/output/res/layout/messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_white_small.xml",
+        "source": "/Users/ashish/.android/build-cache/ee1c72974d77b0b9c2403d67dce33cf9ac2ca774/output/res/layout/messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/ashish/.android/build-cache/20b77c4c04f99566e429d41e4c34c90e759c79c7/output/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/ashish/.android/build-cache/b46ee297ed3cde7b38d9b7930b879a861f38eb33/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/launch_screen.xml",
+        "source": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/res/layout/launch_screen.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/com_facebook_smart_device_dialog_fragment.xml",
+        "source": "/Users/ashish/.android/build-cache/2004b1fa90c79c517c8c4587954d4ecf0ab78a60/output/res/layout/com_facebook_smart_device_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/com_facebook_activity_layout.xml",
+        "source": "/Users/ashish/.android/build-cache/2004b1fa90c79c517c8c4587954d4ecf0ab78a60/output/res/layout/com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/ashish/.android/build-cache/b46ee297ed3cde7b38d9b7930b879a861f38eb33/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/res/layout/list_item.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/surface_view.xml",
+        "source": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-camera/android/build/intermediates/bundles/default/res/layout/surface_view.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/ashish/.android/build-cache/20b77c4c04f99566e429d41e4c34c90e759c79c7/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/com_facebook_device_auth_dialog_fragment.xml",
+        "source": "/Users/ashish/.android/build-cache/2004b1fa90c79c517c8c4587954d4ecf0ab78a60/output/res/layout/com_facebook_device_auth_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/browser_actions_context_menu_page.xml",
+        "source": "/Users/ashish/.android/build-cache/07e7d560a5e0df9d9c947f20726f17ba3d9d59b1/output/res/layout/browser_actions_context_menu_page.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/messenger_button_send_blue_round.xml",
+        "source": "/Users/ashish/.android/build-cache/ee1c72974d77b0b9c2403d67dce33cf9ac2ca774/output/res/layout/messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/fps_view.xml",
+        "source": "/Users/ashish/.android/build-cache/5d30eaecbff8abee232845ac4ab775a6d85914bf/output/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/ashish/.android/build-cache/b46ee297ed3cde7b38d9b7930b879a861f38eb33/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/browser_actions_context_menu_row.xml",
+        "source": "/Users/ashish/.android/build-cache/07e7d560a5e0df9d9c947f20726f17ba3d9d59b1/output/res/layout/browser_actions_context_menu_row.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/com_facebook_login_fragment.xml",
+        "source": "/Users/ashish/.android/build-cache/2004b1fa90c79c517c8c4587954d4ecf0ab78a60/output/res/layout/com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/ashish/.android/build-cache/20b77c4c04f99566e429d41e4c34c90e759c79c7/output/res/layout/notification_template_media.xml"
+    }
+]

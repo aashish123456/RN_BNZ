@@ -1,0 +1,42 @@
+-injars /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/transforms/jarMerging/release/jars/1/1f/combined.jar
+-outjars /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/multi-dex/release/componentClasses.jar
+
+-libraryjars /Users/ashish/Library/Android/sdk/build-tools/28.0.2/lib/shrinkedAndroid.jar
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/build/intermediates/multi-dex/release/components.flags
+
+
+# view AndroidManifest.xml #generated:54
+-keep class com.bnzcrusaders.MainApplication {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.fd.** {
+    <fields>;
+    <methods>;
+}

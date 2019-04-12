@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "549172284186",
+    "firebase_url": "https://bnzcrusaders-d769e.firebaseio.com",
+    "project_id": "bnzcrusaders-d769e",
+    "storage_bucket": "bnzcrusaders-d769e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549172284186:android:d5ca9f29cef2221b",
+        "android_client_info": {
+          "package_name": "com.bnzcrusaders"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549172284186-lgg0gstn2lp5mte139oo6skcvsqsqmg5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrNeR8yrkiIftuUdIVcGMAxAHS-vopqWM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

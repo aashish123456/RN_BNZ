@@ -1,0 +1,702 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:1:1-54:12
+	package
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:2:5-51
+	xmlns:android
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:1:11-69
+	android:versionCode
+		INJECTED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [BNZCrusaders:react-native-firebase:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-firebase/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ashish/.android/build-cache/050d9f2919ee96f7429b67252ce4bc35b8b3fc6d/output/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/ashish/.android/build-cache/7988b3347e3c71e6bd5882d54a3f68846cf3309c/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/ashish/.android/build-cache/1c9995946662c3fc37382dfce24f2a4fed7a4c3e/output/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/ashish/.android/build-cache/267d4ac84ecc65b6f07848490ac79812be9cb012/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/ashish/.android/build-cache/39e40ab107e9a9abd51b323b1e24b0ef637516a0/output/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-functions:16.1.3] /Users/ashish/.android/build-cache/c674defe4bf4f6cc25acf2a68a2bda900555a4cc/output/AndroidManifest.xml:10:5-67
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/ashish/.android/build-cache/70a1c3c384030b78df63f0604558fa6f2b1cb051/output/AndroidManifest.xml:10:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/ashish/.android/build-cache/34998da3d62cf092b76f1d2795a4ea935c1d42b1/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/ashish/.android/build-cache/7ac7b7e26da5d4042fc2b44d25c1d6fba2443229/output/AndroidManifest.xml:9:5-67
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /Users/ashish/.android/build-cache/282ab7bee3489a7cb27ada861ed1cde17fb55289/output/AndroidManifest.xml:52:5-67
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /Users/ashish/.android/build-cache/dbe749fc8a5c500b79ec6ebdd588f87cc38e1c81/output/AndroidManifest.xml:9:5-67
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /Users/ashish/.android/build-cache/03f8523536b72325053030e9a13b8880c6c6c8a6/output/AndroidManifest.xml:29:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/ashish/.android/build-cache/3ee750f9d22982927c8635fa82f9932e475587e9/output/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/ashish/.android/build-cache/19b55f4129354d2773f61e5752bc1168f217b267/output/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:6:5-78
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/ashish/.android/build-cache/5d30eaecbff8abee232845ac4ab775a6d85914bf/output/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:6:22-75
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:7:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:8:5-66
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:8:22-63
+application
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:10:5-52:19
+MERGED from [BNZCrusaders:react-native-fbsdk:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-fbsdk/android/build/intermediates/bundles/default/AndroidManifest.xml:28:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/ashish/.android/build-cache/213bcf4b85b0fb7fa936aac5f86ff5d49ead7fcb/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/ashish/.android/build-cache/87279282c6c8ea18f35e1dc4db953be22f4d8558/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/ashish/.android/build-cache/32906c1ffa0c82824c5bff14a69e5e6a17b44dfc/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/ashish/.android/build-cache/2004b1fa90c79c517c8c4587954d4ecf0ab78a60/output/AndroidManifest.xml:28:5-35:19
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/ashish/.android/build-cache/05499b19e7504529e79ea654df9815ec92c81b24/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/ashish/.android/build-cache/c68af6356d002fbf5dbe9af67fe8a948c54abbbf/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/ashish/.android/build-cache/ee1c72974d77b0b9c2403d67dce33cf9ac2ca774/output/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/ashish/.android/build-cache/7977c2cad7f3a1e442e272c3df4719e725e0a4a9/output/AndroidManifest.xml:28:5-33:19
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/ashish/.android/build-cache/523462f5634e1cc8a0ac99b142d5803ad6a33975/output/AndroidManifest.xml:28:5-51:19
+MERGED from [BNZCrusaders:react-native-splash-screen:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-15:19
+MERGED from [BNZCrusaders:react-native-image-picker:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-21:19
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/ashish/.android/build-cache/f5b384b6ed0a125f65e65dcf018b33c1263f8ae5/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/ashish/.android/build-cache/c1655299f81b4be3de27cc5c0ce30719e3353232/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/ashish/.android/build-cache/5027ceb55ace7e9de78f5792bd5af08b577cebc7/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/ashish/.android/build-cache/fbb7960f5be8a47d3159057bf404524d6f528166/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:exifinterface:26.1.0] /Users/ashish/.android/build-cache/c380fadd06e08e21fa1356855cd667fa709c1110/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/ashish/.android/build-cache/b01513b4aa93550a2d98109ef8c7c5bb1fd82f97/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ashish/.android/build-cache/050d9f2919ee96f7429b67252ce4bc35b8b3fc6d/output/AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/ashish/.android/build-cache/f398733da290fe81aa26a2cf0be682a5a0853750/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/ashish/.android/build-cache/ecc12feacf459a42501c81701d9e9faedc00d044/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/ashish/.android/build-cache/7988b3347e3c71e6bd5882d54a3f68846cf3309c/output/AndroidManifest.xml:27:5-39:19
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/ashish/.android/build-cache/c514cc6e045fc125abbbc2f271e041ae94374ebd/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:16.1.2] /Users/ashish/.android/build-cache/ef814e6cbe8e5140a8d1b18d38c97667ab8147d7/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/ashish/.android/build-cache/e5a71c1c089af3e90130396e45c4f5ffb9daa8f1/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-invites:16.0.6] /Users/ashish/.android/build-cache/e70c5a0344c5890c6a1bdabcb0193012e427169e/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/ashish/.android/build-cache/267d4ac84ecc65b6f07848490ac79812be9cb012/output/AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/ashish/.android/build-cache/7aa65eee6e95c9d25d75b33b6f5810e87c37b30e/output/AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-functions:16.1.3] /Users/ashish/.android/build-cache/c674defe4bf4f6cc25acf2a68a2bda900555a4cc/output/AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/ashish/.android/build-cache/70a1c3c384030b78df63f0604558fa6f2b1cb051/output/AndroidManifest.xml:12:5-18:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ashish/.android/build-cache/6b854e8a68b48849e9f7b77084eb8a4524d93f53/output/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/ashish/.android/build-cache/ddfdca19d774a9679d0d0be9b75e14e8321bac4c/output/AndroidManifest.xml:22:5-35:19
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/ashish/.android/build-cache/5d30eaecbff8abee232845ac4ab775a6d85914bf/output/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ashish/.android/build-cache/7f7e4d9cfbd32047ec931411764ff28c4a254874/output/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/ashish/.android/build-cache/65ee47e93df054072555a88ff8b6f175bd26a4cd/output/AndroidManifest.xml:2:3-17
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/ashish/.android/build-cache/34998da3d62cf092b76f1d2795a4ea935c1d42b1/output/AndroidManifest.xml:11:5-17:19
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/ashish/.android/build-cache/7ac7b7e26da5d4042fc2b44d25c1d6fba2443229/output/AndroidManifest.xml:11:5-20
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /Users/ashish/.android/build-cache/282ab7bee3489a7cb27ada861ed1cde17fb55289/output/AndroidManifest.xml:54:5-20
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /Users/ashish/.android/build-cache/dbe749fc8a5c500b79ec6ebdd588f87cc38e1c81/output/AndroidManifest.xml:11:5-20
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /Users/ashish/.android/build-cache/03f8523536b72325053030e9a13b8880c6c6c8a6/output/AndroidManifest.xml:31:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/ashish/.android/build-cache/2b8cee7ac5ba58de4a3d68a17e8eae3740b87ae6/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/ashish/.android/build-cache/3ee750f9d22982927c8635fa82f9932e475587e9/output/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/ashish/.android/build-cache/c0685feb3af8fc29287f6a584271716afe90cc7a/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/ashish/.android/build-cache/19b55f4129354d2773f61e5752bc1168f217b267/output/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/ashish/.android/build-cache/15362f85b559857684edb2476fae43fc8b196ee0/output/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/ashish/.android/build-cache/a045e5355a47095808b02fac6263cfcfa778b438/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/ashish/.android/build-cache/b144ae4a8930b557ef1985e80c9755a06a671273/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/ashish/.android/build-cache/371adc7b97d0943b802852a604ec9193caff7adc/output/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ashish/.android/build-cache/7147085dbf053e8a08417621a30c06821a29f347/output/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/ashish/.android/build-cache/ffb960200836640601c277df050e819cb18137d1/output/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ashish/.android/build-cache/84aa091ae50f516378bfdb87d68264106418f935/output/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/ashish/.android/build-cache/fa4c8ea671b38bf75272c3518abb34818b530fba/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ashish/.android/build-cache/c79a7e0de5fd1d27712fddafd843365bcd46bbd4/output/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ashish/.android/build-cache/b46ee297ed3cde7b38d9b7930b879a861f38eb33/output/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ashish/.android/build-cache/bdf7016fc7e78e99b09690c1b93cf2b0ef307da7/output/AndroidManifest.xml:22:5-23:19
+	android:label
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:14:9-41
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/ashish/.android/build-cache/213bcf4b85b0fb7fa936aac5f86ff5d49ead7fcb/output/AndroidManifest.xml:28:18-44
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/ashish/.android/build-cache/b46ee297ed3cde7b38d9b7930b879a861f38eb33/output/AndroidManifest.xml:22:18-91
+	android:allowBackup
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:12:9-36
+		REJECTED from [BNZCrusaders:react-native-splash-screen:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:13:9-43
+	android:theme
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:15:9-40
+	tools:replace
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:16:9-44
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.bnzcrusaders.MainActivity
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:19:9-30:20
+	android:screenOrientation
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:23:13-49
+	android:label
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:22:13-45
+	android:launchMode
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:24:13-44
+	android:windowSoftInputMode
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:25:13-55
+	android:configChanges
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:21:13-83
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:26:13-29:29
+action#android.intent.action.MAIN
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:28:27-74
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:33:9-86
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:33:19-83
+service#io.invertase.firebase.messaging.RNFirebaseMessagingService
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:35:9-39:19
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:35:18-91
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:36:13-38:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:37:17-78
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:37:25-75
+service#io.invertase.firebase.messaging.RNFirebaseBackgroundMessagingService
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:40:9-104
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:40:18-101
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:42:9-44:55
+	android:value
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:43:13-58
+meta-data#com.google.android.gms.version
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:45:9-47:69
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ashish/.android/build-cache/c79a7e0de5fd1d27712fddafd843365bcd46bbd4/output/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:47:13-66
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:46:13-58
+meta-data#com.google.firebase.messaging.default_notification_icon
+ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:48:9-50:54
+	android:resource
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:50:13-51
+	android:name
+		ADDED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:49:13-83
+uses-sdk
+INJECTED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [BNZCrusaders:react-native-fbsdk:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-fbsdk/android/build/intermediates/bundles/default/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.34.0] /Users/ashish/.android/build-cache/213bcf4b85b0fb7fa936aac5f86ff5d49ead7fcb/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.34.0] /Users/ashish/.android/build-cache/87279282c6c8ea18f35e1dc4db953be22f4d8558/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.34.0] /Users/ashish/.android/build-cache/32906c1ffa0c82824c5bff14a69e5e6a17b44dfc/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.34.0] /Users/ashish/.android/build-cache/2004b1fa90c79c517c8c4587954d4ecf0ab78a60/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:cardview-v7:27.0.2] /Users/ashish/.android/build-cache/c7a4d089430aeb1fd15938340d8257583f2688c1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.android:facebook-places:4.34.0] /Users/ashish/.android/build-cache/05499b19e7504529e79ea654df9815ec92c81b24/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.34.0] /Users/ashish/.android/build-cache/c68af6356d002fbf5dbe9af67fe8a948c54abbbf/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.34.0] /Users/ashish/.android/build-cache/ee1c72974d77b0b9c2403d67dce33cf9ac2ca774/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-marketing:4.34.0] /Users/ashish/.android/build-cache/7977c2cad7f3a1e442e272c3df4719e725e0a4a9/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.34.0] /Users/ashish/.android/build-cache/523462f5634e1cc8a0ac99b142d5803ad6a33975/output/AndroidManifest.xml:24:5-26:41
+MERGED from [BNZCrusaders:react-native-splash-screen:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-splash-screen/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [BNZCrusaders:react-native-share:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-share/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [BNZCrusaders:react-native-image-picker:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] /Users/ashish/.android/build-cache/f5b384b6ed0a125f65e65dcf018b33c1263f8ae5/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] /Users/ashish/.android/build-cache/c1655299f81b4be3de27cc5c0ce30719e3353232/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] /Users/ashish/.android/build-cache/5027ceb55ace7e9de78f5792bd5af08b577cebc7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] /Users/ashish/.android/build-cache/fbb7960f5be8a47d3159057bf404524d6f528166/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:26.1.0] /Users/ashish/.android/build-cache/c380fadd06e08e21fa1356855cd667fa709c1110/output/AndroidManifest.xml:20:5-44
+MERGED from [BNZCrusaders:react-native-camera:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:5:5-7:41
+MERGED from [BNZCrusaders:react-native-firebase:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-firebase/android/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:multidex:1.0.1] /Users/ashish/.android/build-cache/8ee8abb3e3577708616faaf820d3bd627e8cc51b/output/AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-ads:15.0.1] /Users/ashish/.android/build-cache/b01513b4aa93550a2d98109ef8c7c5bb1fd82f97/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads:15.0.1] /Users/ashish/.android/build-cache/d191314f22df7c8e695a7539eddee369e29d0b52/output/AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ashish/.android/build-cache/050d9f2919ee96f7429b67252ce4bc35b8b3fc6d/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:15.0.1] /Users/ashish/.android/build-cache/f398733da290fe81aa26a2cf0be682a5a0853750/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:15.0.1] /Users/ashish/.android/build-cache/ecc12feacf459a42501c81701d9e9faedc00d044/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:21:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/ashish/.android/build-cache/007cfe34aea39eb60ff9662dcb712577f9e7ee8f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/ashish/.android/build-cache/7988b3347e3c71e6bd5882d54a3f68846cf3309c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-clearcut:16.0.0] /Users/ashish/.android/build-cache/c514cc6e045fc125abbbc2f271e041ae94374ebd/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:16.1.2] /Users/ashish/.android/build-cache/ef814e6cbe8e5140a8d1b18d38c97667ab8147d7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-phenotype:16.0.0] /Users/ashish/.android/build-cache/e5a71c1c089af3e90130396e45c4f5ffb9daa8f1/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-abt:16.0.1] /Users/ashish/.android/build-cache/35eaa524927c0ecc4ad521dc402a425f0c73fe56/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/ashish/.android/build-cache/1c9995946662c3fc37382dfce24f2a4fed7a4c3e/output/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-invites:16.0.6] /Users/ashish/.android/build-cache/e70c5a0344c5890c6a1bdabcb0193012e427169e/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/ashish/.android/build-cache/267d4ac84ecc65b6f07848490ac79812be9cb012/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/ashish/.android/build-cache/7aa65eee6e95c9d25d75b33b6f5810e87c37b30e/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/ashish/.android/build-cache/39e40ab107e9a9abd51b323b1e24b0ef637516a0/output/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-functions:16.1.3] /Users/ashish/.android/build-cache/c674defe4bf4f6cc25acf2a68a2bda900555a4cc/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/ashish/.android/build-cache/70a1c3c384030b78df63f0604558fa6f2b1cb051/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/ashish/.android/build-cache/6b854e8a68b48849e9f7b77084eb8a4524d93f53/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/ashish/.android/build-cache/b913e030e05cefc0d3e676ed8480dc89b49543cb/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:protolite-well-known-types:16.0.1] /Users/ashish/.android/build-cache/a8f92780fb1bb56041873f84c807b9dbead9ff36/output/AndroidManifest.xml:7:5-9:41
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/ashish/.android/build-cache/734a3f79d1f6e65182e7565fb865bf83256e3012/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/ashish/.android/build-cache/ddfdca19d774a9679d0d0be9b75e14e8321bac4c/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:28.0.0] /Users/ashish/.android/build-cache/07e7d560a5e0df9d9c947f20726f17ba3d9d59b1/output/AndroidManifest.xml:20:5-44
+MERGED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.58.4] /Users/ashish/.android/build-cache/5d30eaecbff8abee232845ac4ab775a6d85914bf/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/ashish/.android/build-cache/1f65db65203db3678c28c3e38b3b2a2996e95814/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/ashish/.android/build-cache/029902cd3178ba21296c848f07c870d71ee022ce/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/ashish/.android/build-cache/6b1561484bc44094750ac1f19402eb5bd95c59ba/output/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/ashish/.android/build-cache/103a3408d79f618de05c0a6f27fbaede8e966df3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/ashish/.android/build-cache/0cd51a96e0427bb4975d8de679c845c2f93e9de0/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/ashish/.android/build-cache/c174e2d449ef2688a88f05598fc10be2f7c8c3f4/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/ashish/.android/build-cache/f12ed9cccdcc0e5ea1e8dd33093b5c80a89b8b4a/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/ashish/.android/build-cache/9e2ed7ec6d4da9361b3f7719593c0b9999cf73c3/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/ashish/.android/build-cache/43003d92121ad336fe8d93cb698e53123718b099/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/ashish/.android/build-cache/7f7e4d9cfbd32047ec931411764ff28c4a254874/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/ashish/.android/build-cache/34998da3d62cf092b76f1d2795a4ea935c1d42b1/output/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:beta:1.2.10] /Users/ashish/.android/build-cache/7ac7b7e26da5d4042fc2b44d25c1d6fba2443229/output/AndroidManifest.xml:7:5-43
+MERGED from [com.crashlytics.sdk.android:crashlytics-core:2.6.7] /Users/ashish/.android/build-cache/282ab7bee3489a7cb27ada861ed1cde17fb55289/output/AndroidManifest.xml:50:5-43
+MERGED from [com.crashlytics.sdk.android:answers:1.4.6] /Users/ashish/.android/build-cache/dbe749fc8a5c500b79ec6ebdd588f87cc38e1c81/output/AndroidManifest.xml:7:5-43
+MERGED from [io.fabric.sdk.android:fabric:1.4.7] /Users/ashish/.android/build-cache/03f8523536b72325053030e9a13b8880c6c6c8a6/output/AndroidManifest.xml:27:5-43
+MERGED from [com.google.firebase:firebase-core:16.0.6] /Users/ashish/.android/build-cache/2b8cee7ac5ba58de4a3d68a17e8eae3740b87ae6/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/ashish/.android/build-cache/3ee750f9d22982927c8635fa82f9932e475587e9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.4] /Users/ashish/.android/build-cache/c0685feb3af8fc29287f6a584271716afe90cc7a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/ashish/.android/build-cache/19b55f4129354d2773f61e5752bc1168f217b267/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/ashish/.android/build-cache/15362f85b559857684edb2476fae43fc8b196ee0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.5] /Users/ashish/.android/build-cache/a045e5355a47095808b02fac6263cfcfa778b438/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/ashish/.android/build-cache/b144ae4a8930b557ef1985e80c9755a06a671273/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/ashish/.android/build-cache/371adc7b97d0943b802852a604ec9193caff7adc/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/ashish/.android/build-cache/7147085dbf053e8a08417621a30c06821a29f347/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/ashish/.android/build-cache/ffb960200836640601c277df050e819cb18137d1/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/ashish/.android/build-cache/84aa091ae50f516378bfdb87d68264106418f935/output/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/ashish/.android/build-cache/fa4c8ea671b38bf75272c3518abb34818b530fba/output/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/ashish/.android/build-cache/c79a7e0de5fd1d27712fddafd843365bcd46bbd4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] /Users/ashish/.android/build-cache/23e31aadfb23e09caaaeee5c8a5d484381e06218/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] /Users/ashish/.android/build-cache/20b77c4c04f99566e429d41e4c34c90e759c79c7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/ashish/.android/build-cache/0b26af3242497f5bfcbeabc7adb8f52f684f6d9b/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/ashish/.android/build-cache/91c426e700cdca0ca069d45bf54be017e2565c1e/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/ashish/.android/build-cache/862716c7f08a0f7e98829d702ab85f9ded75d0b9/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/ashish/.android/build-cache/e81e5861a400b1ca5d8ee09ea29bb903ff297204/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/ashish/.android/build-cache/bb36e32c5374eff2fb314e6d8ddd52266a351e15/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/ashish/.android/build-cache/f1ad4591c0df5473b797c00ef0788c84cda59b97/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/ashish/.android/build-cache/24aa7b1afaba51bc91de418172cbe423a5b8c160/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/ashish/.android/build-cache/66fb5aa1294e32ba233940667c174ebbabc449ba/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/ashish/.android/build-cache/d7e48f58e1e452334d3731806177314629f329a7/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/ashish/.android/build-cache/96f539ef85f53ec3cfcc02e0632efc1acdec43e4/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/ashish/.android/build-cache/75c71d8708ea2a42c83ae2a3c7c4a138ae2eecfe/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/ashish/.android/build-cache/f4fbc4caca236688f6f968b1fc820f95247bd8cd/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/ashish/.android/build-cache/dcb08c683c0a005269285dfcace68274617a45fa/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/ashish/.android/build-cache/25db471d6b05fdf1a2ade0691a9f4c583dece984/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/ashish/.android/build-cache/fc012701637cc3be0450ee4f87821de92695e766/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/ashish/.android/build-cache/09aea9031f13a73282bdd64ccf0739bb9e679a35/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/ashish/.android/build-cache/b46ee297ed3cde7b38d9b7930b879a861f38eb33/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/ashish/.android/build-cache/7369f54efd800706aeb958bf276c1005859c00fa/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/ashish/.android/build-cache/bdf7016fc7e78e99b09690c1b93cf2b0ef307da7/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/ashish/.android/build-cache/4639005fc2848cc91d3941c6001dd5a90b2b5daf/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/ashish/.android/build-cache/82883043411a2165c7b833d713f4a4d39fdff45c/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/ashish/.android/build-cache/3f01e0e75956e708ab621ecaf92de672ec729c67/output/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/ashish/.android/build-cache/752a7545de841bdd02124531f846f86feca34832/output/AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:15.0.1] /Users/ashish/.android/build-cache/d191314f22df7c8e695a7539eddee369e29d0b52/output/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/ashish/.android/build-cache/2004b1fa90c79c517c8c4587954d4ecf0ab78a60/output/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/ashish/.android/build-cache/2004b1fa90c79c517c8c4587954d4ecf0ab78a60/output/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/ashish/.android/build-cache/2004b1fa90c79c517c8c4587954d4ecf0ab78a60/output/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/ashish/.android/build-cache/2004b1fa90c79c517c8c4587954d4ecf0ab78a60/output/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/ashish/.android/build-cache/2004b1fa90c79c517c8c4587954d4ecf0ab78a60/output/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/ashish/.android/build-cache/2004b1fa90c79c517c8c4587954d4ecf0ab78a60/output/AndroidManifest.xml:33:19-68
+activity#com.facebook.CustomTabActivity
+ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/ashish/.android/build-cache/2004b1fa90c79c517c8c4587954d4ecf0ab78a60/output/AndroidManifest.xml:34:9-67
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.34.0] /Users/ashish/.android/build-cache/2004b1fa90c79c517c8c4587954d4ecf0ab78a60/output/AndroidManifest.xml:34:19-64
+provider#com.facebook.marketing.internal.MarketingInitProvider
+ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/ashish/.android/build-cache/7977c2cad7f3a1e442e272c3df4719e725e0a4a9/output/AndroidManifest.xml:29:9-32:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/ashish/.android/build-cache/7977c2cad7f3a1e442e272c3df4719e725e0a4a9/output/AndroidManifest.xml:31:13-73
+	android:exported
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/ashish/.android/build-cache/7977c2cad7f3a1e442e272c3df4719e725e0a4a9/output/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-marketing:4.34.0] /Users/ashish/.android/build-cache/7977c2cad7f3a1e442e272c3df4719e725e0a4a9/output/AndroidManifest.xml:30:13-81
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/ashish/.android/build-cache/523462f5634e1cc8a0ac99b142d5803ad6a33975/output/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/ashish/.android/build-cache/523462f5634e1cc8a0ac99b142d5803ad6a33975/output/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/ashish/.android/build-cache/523462f5634e1cc8a0ac99b142d5803ad6a33975/output/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/ashish/.android/build-cache/523462f5634e1cc8a0ac99b142d5803ad6a33975/output/AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/ashish/.android/build-cache/523462f5634e1cc8a0ac99b142d5803ad6a33975/output/AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/ashish/.android/build-cache/523462f5634e1cc8a0ac99b142d5803ad6a33975/output/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/ashish/.android/build-cache/523462f5634e1cc8a0ac99b142d5803ad6a33975/output/AndroidManifest.xml:45:13-86
+intent-filter#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/ashish/.android/build-cache/523462f5634e1cc8a0ac99b142d5803ad6a33975/output/AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/ashish/.android/build-cache/523462f5634e1cc8a0ac99b142d5803ad6a33975/output/AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.34.0] /Users/ashish/.android/build-cache/523462f5634e1cc8a0ac99b142d5803ad6a33975/output/AndroidManifest.xml:48:25-92
+provider#android.support.v4.content.FileProvider
+ADDED from [BNZCrusaders:react-native-image-picker:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:12:9-20:20
+	android:authorities
+		ADDED from [BNZCrusaders:react-native-image-picker:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:14:13-60
+	android:grantUriPermissions
+		ADDED from [BNZCrusaders:react-native-image-picker:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:16:13-47
+	android:exported
+		ADDED from [BNZCrusaders:react-native-image-picker:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [BNZCrusaders:react-native-image-picker:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:13:13-67
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [BNZCrusaders:react-native-image-picker:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:17:13-19:58
+	android:resource
+		ADDED from [BNZCrusaders:react-native-image-picker:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:19:17-55
+	android:name
+		ADDED from [BNZCrusaders:react-native-image-picker:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-image-picker/android/build/intermediates/bundles/default/AndroidManifest.xml:18:17-67
+meta-data#android.support.VERSION
+ADDED from [com.android.support:exifinterface:26.1.0] /Users/ashish/.android/build-cache/c380fadd06e08e21fa1356855cd667fa709c1110/output/AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:exifinterface:26.1.0] /Users/ashish/.android/build-cache/c380fadd06e08e21fa1356855cd667fa709c1110/output/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:exifinterface:26.1.0] /Users/ashish/.android/build-cache/c380fadd06e08e21fa1356855cd667fa709c1110/output/AndroidManifest.xml:24:13-51
+uses-permission#android.permission.CAMERA
+ADDED from [BNZCrusaders:react-native-camera:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from [BNZCrusaders:react-native-camera:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:9:22-62
+uses-feature#android.hardware.camera
+ADDED from [BNZCrusaders:react-native-camera:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:11:5-13:36
+	android:required
+		ADDED from [BNZCrusaders:react-native-camera:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:13:9-33
+	android:name
+		ADDED from [BNZCrusaders:react-native-camera:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:12:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [BNZCrusaders:react-native-camera:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:14:5-16:36
+	android:required
+		ADDED from [BNZCrusaders:react-native-camera:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:16:9-33
+	android:name
+		ADDED from [BNZCrusaders:react-native-camera:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-camera/android/build/intermediates/bundles/default/AndroidManifest.xml:15:9-57
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [BNZCrusaders:react-native-firebase:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-firebase/android/build/intermediates/bundles/default/AndroidManifest.xml:12:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/ashish/.android/build-cache/3ee750f9d22982927c8635fa82f9932e475587e9/output/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/ashish/.android/build-cache/19b55f4129354d2773f61e5752bc1168f217b267/output/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [BNZCrusaders:react-native-firebase:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-firebase/android/build/intermediates/bundles/default/AndroidManifest.xml:12:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [BNZCrusaders:react-native-firebase:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-firebase/android/build/intermediates/bundles/default/AndroidManifest.xml:13:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ashish/.android/build-cache/050d9f2919ee96f7429b67252ce4bc35b8b3fc6d/output/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/ashish/.android/build-cache/1c9995946662c3fc37382dfce24f2a4fed7a4c3e/output/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/ashish/.android/build-cache/39e40ab107e9a9abd51b323b1e24b0ef637516a0/output/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/ashish/.android/build-cache/70a1c3c384030b78df63f0604558fa6f2b1cb051/output/AndroidManifest.xml:9:5-79
+MERGED from [io.grpc:grpc-android:1.16.1] /Users/ashish/.android/build-cache/734a3f79d1f6e65182e7565fb865bf83256e3012/output/AndroidManifest.xml:11:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/ashish/.android/build-cache/3ee750f9d22982927c8635fa82f9932e475587e9/output/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/ashish/.android/build-cache/19b55f4129354d2773f61e5752bc1168f217b267/output/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [BNZCrusaders:react-native-firebase:unspecified] /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/node_modules/react-native-firebase/android/build/intermediates/bundles/default/AndroidManifest.xml:13:22-76
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ashish/.android/build-cache/050d9f2919ee96f7429b67252ce4bc35b8b3fc6d/output/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ashish/.android/build-cache/050d9f2919ee96f7429b67252ce4bc35b8b3fc6d/output/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ashish/.android/build-cache/050d9f2919ee96f7429b67252ce4bc35b8b3fc6d/output/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ashish/.android/build-cache/050d9f2919ee96f7429b67252ce4bc35b8b3fc6d/output/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:15.0.1] /Users/ashish/.android/build-cache/050d9f2919ee96f7429b67252ce4bc35b8b3fc6d/output/AndroidManifest.xml:30:13-65
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-perf:16.2.3] /Users/ashish/.android/build-cache/7988b3347e3c71e6bd5882d54a3f68846cf3309c/output/AndroidManifest.xml:34:9-38:19
+MERGED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/ashish/.android/build-cache/7aa65eee6e95c9d25d75b33b6f5810e87c37b30e/output/AndroidManifest.xml:8:9-12:19
+MERGED from [com.google.firebase:firebase-functions:16.1.3] /Users/ashish/.android/build-cache/c674defe4bf4f6cc25acf2a68a2bda900555a4cc/output/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-firestore:17.1.5] /Users/ashish/.android/build-cache/70a1c3c384030b78df63f0604558fa6f2b1cb051/output/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/ashish/.android/build-cache/3ee750f9d22982927c8635fa82f9932e475587e9/output/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.1.0] /Users/ashish/.android/build-cache/f51b2db907d0108f3d86c82bc5d13b38342b9199/output/AndroidManifest.xml:37:17-109
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/ashish/.android/build-cache/7988b3347e3c71e6bd5882d54a3f68846cf3309c/output/AndroidManifest.xml:23:5-98
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/ashish/.android/build-cache/7988b3347e3c71e6bd5882d54a3f68846cf3309c/output/AndroidManifest.xml:23:22-95
+provider#com.google.firebase.perf.provider.FirebasePerfProvider
+ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/ashish/.android/build-cache/7988b3347e3c71e6bd5882d54a3f68846cf3309c/output/AndroidManifest.xml:28:9-32:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/ashish/.android/build-cache/7988b3347e3c71e6bd5882d54a3f68846cf3309c/output/AndroidManifest.xml:30:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/ashish/.android/build-cache/7988b3347e3c71e6bd5882d54a3f68846cf3309c/output/AndroidManifest.xml:31:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/ashish/.android/build-cache/7988b3347e3c71e6bd5882d54a3f68846cf3309c/output/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/ashish/.android/build-cache/7988b3347e3c71e6bd5882d54a3f68846cf3309c/output/AndroidManifest.xml:29:13-82
+meta-data#com.google.firebase.components:com.google.firebase.perf.component.FirebasePerfRegistrar
+ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/ashish/.android/build-cache/7988b3347e3c71e6bd5882d54a3f68846cf3309c/output/AndroidManifest.xml:35:13-37:85
+	android:value
+		ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/ashish/.android/build-cache/7988b3347e3c71e6bd5882d54a3f68846cf3309c/output/AndroidManifest.xml:37:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-perf:16.2.3] /Users/ashish/.android/build-cache/7988b3347e3c71e6bd5882d54a3f68846cf3309c/output/AndroidManifest.xml:36:17-119
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/ashish/.android/build-cache/267d4ac84ecc65b6f07848490ac79812be9cb012/output/AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/ashish/.android/build-cache/267d4ac84ecc65b6f07848490ac79812be9cb012/output/AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/ashish/.android/build-cache/267d4ac84ecc65b6f07848490ac79812be9cb012/output/AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/ashish/.android/build-cache/267d4ac84ecc65b6f07848490ac79812be9cb012/output/AndroidManifest.xml:26:13-76
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/ashish/.android/build-cache/267d4ac84ecc65b6f07848490ac79812be9cb012/output/AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/ashish/.android/build-cache/267d4ac84ecc65b6f07848490ac79812be9cb012/output/AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/ashish/.android/build-cache/267d4ac84ecc65b6f07848490ac79812be9cb012/output/AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/ashish/.android/build-cache/267d4ac84ecc65b6f07848490ac79812be9cb012/output/AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:16.0.7] /Users/ashish/.android/build-cache/267d4ac84ecc65b6f07848490ac79812be9cb012/output/AndroidManifest.xml:32:27-73
+meta-data#com.google.firebase.components:com.google.firebase.dynamiclinks.internal.FirebaseDynamicLinkRegistrar
+ADDED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/ashish/.android/build-cache/7aa65eee6e95c9d25d75b33b6f5810e87c37b30e/output/AndroidManifest.xml:9:13-11:85
+	android:value
+		ADDED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/ashish/.android/build-cache/7aa65eee6e95c9d25d75b33b6f5810e87c37b30e/output/AndroidManifest.xml:11:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-dynamic-links:16.1.5] /Users/ashish/.android/build-cache/7aa65eee6e95c9d25d75b33b6f5810e87c37b30e/output/AndroidManifest.xml:10:17-133
+meta-data#com.google.firebase.components:com.google.firebase.functions.FunctionsRegistrar
+ADDED from [com.google.firebase:firebase-functions:16.1.3] /Users/ashish/.android/build-cache/c674defe4bf4f6cc25acf2a68a2bda900555a4cc/output/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-functions:16.1.3] /Users/ashish/.android/build-cache/c674defe4bf4f6cc25acf2a68a2bda900555a4cc/output/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-functions:16.1.3] /Users/ashish/.android/build-cache/c674defe4bf4f6cc25acf2a68a2bda900555a4cc/output/AndroidManifest.xml:15:17-111
+meta-data#com.google.firebase.components:com.google.firebase.firestore.FirestoreRegistrar
+ADDED from [com.google.firebase:firebase-firestore:17.1.5] /Users/ashish/.android/build-cache/70a1c3c384030b78df63f0604558fa6f2b1cb051/output/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [com.google.firebase:firebase-firestore:17.1.5] /Users/ashish/.android/build-cache/70a1c3c384030b78df63f0604558fa6f2b1cb051/output/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-firestore:17.1.5] /Users/ashish/.android/build-cache/70a1c3c384030b78df63f0604558fa6f2b1cb051/output/AndroidManifest.xml:15:17-111
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/ashish/.android/build-cache/ddfdca19d774a9679d0d0be9b75e14e8321bac4c/output/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/ashish/.android/build-cache/ddfdca19d774a9679d0d0be9b75e14e8321bac4c/output/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/ashish/.android/build-cache/ddfdca19d774a9679d0d0be9b75e14e8321bac4c/output/AndroidManifest.xml:29:13-82
+uses-permission#com.sec.android.provider.badge.permission.READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:19:5-86
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:19:22-83
+uses-permission#com.sec.android.provider.badge.permission.WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:20:5-87
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:20:22-84
+uses-permission#com.htc.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:23:22-78
+uses-permission#com.htc.launcher.permission.UPDATE_SHORTCUT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:24:22-80
+uses-permission#com.sonyericsson.home.permission.BROADCAST_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:27:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:27:22-85
+uses-permission#com.sonymobile.home.permission.PROVIDER_INSERT_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:28:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:28:22-89
+uses-permission#com.anddoes.launcher.permission.UPDATE_COUNT
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:31:5-84
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:31:22-81
+uses-permission#com.majeur.launcher.permission.UPDATE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:34:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:34:22-80
+uses-permission#com.huawei.android.launcher.permission.CHANGE_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:37:5-91
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:37:22-88
+uses-permission#com.huawei.android.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:38:5-92
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:38:22-89
+uses-permission#com.huawei.android.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:39:5-93
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:39:22-90
+uses-permission#android.permission.READ_APP_BADGE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:42:5-73
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:42:22-70
+uses-permission#com.oppo.launcher.permission.READ_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:45:5-82
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:45:22-79
+uses-permission#com.oppo.launcher.permission.WRITE_SETTINGS
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:46:5-83
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:46:22-80
+uses-permission#me.everything.badger.permission.BADGE_COUNT_READ
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:49:5-88
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:49:22-85
+uses-permission#me.everything.badger.permission.BADGE_COUNT_WRITE
+ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:50:5-89
+	android:name
+		ADDED from [me.leolin:ShortcutBadger:1.1.21] /Users/ashish/.android/build-cache/72132b3e11623719f8b5982ad0025057156263ee/output/AndroidManifest.xml:50:22-86
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:1:1-54:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:1:1-54:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/ashish/Desktop/ReactNative/BNZ/git/bnzcrusaders2019/android/app/src/main/AndroidManifest.xml:1:1-54:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+provider#com.crashlytics.android.CrashlyticsInitProvider
+ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/ashish/.android/build-cache/34998da3d62cf092b76f1d2795a4ea935c1d42b1/output/AndroidManifest.xml:12:9-16:38
+	android:authorities
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/ashish/.android/build-cache/34998da3d62cf092b76f1d2795a4ea935c1d42b1/output/AndroidManifest.xml:14:13-75
+	android:exported
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/ashish/.android/build-cache/34998da3d62cf092b76f1d2795a4ea935c1d42b1/output/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/ashish/.android/build-cache/34998da3d62cf092b76f1d2795a4ea935c1d42b1/output/AndroidManifest.xml:16:13-35
+	android:name
+		ADDED from [com.crashlytics.sdk.android:crashlytics:2.9.8] /Users/ashish/.android/build-cache/34998da3d62cf092b76f1d2795a4ea935c1d42b1/output/AndroidManifest.xml:13:13-75
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/ashish/.android/build-cache/3ee750f9d22982927c8635fa82f9932e475587e9/output/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/ashish/.android/build-cache/3ee750f9d22982927c8635fa82f9932e475587e9/output/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.4] /Users/ashish/.android/build-cache/3ee750f9d22982927c8635fa82f9932e475587e9/output/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/ashish/.android/build-cache/19b55f4129354d2773f61e5752bc1168f217b267/output/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.4] /Users/ashish/.android/build-cache/19b55f4129354d2773f61e5752bc1168f217b267/output/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:35:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.6] /Users/ashish/.android/build-cache/4d1e872c70fdac961d855f0f4abeac7eeb3f4862/output/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:38:13-78
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/ashish/.android/build-cache/654184f13c27ba9f3353c7f1785b781e05e8ad7b/output/AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ashish/.android/build-cache/7147085dbf053e8a08417621a30c06821a29f347/output/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ashish/.android/build-cache/7147085dbf053e8a08417621a30c06821a29f347/output/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ashish/.android/build-cache/7147085dbf053e8a08417621a30c06821a29f347/output/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/ashish/.android/build-cache/7147085dbf053e8a08417621a30c06821a29f347/output/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/ashish/.android/build-cache/ffb960200836640601c277df050e819cb18137d1/output/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/ashish/.android/build-cache/ffb960200836640601c277df050e819cb18137d1/output/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/ashish/.android/build-cache/ffb960200836640601c277df050e819cb18137d1/output/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/ashish/.android/build-cache/ffb960200836640601c277df050e819cb18137d1/output/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/ashish/.android/build-cache/ffb960200836640601c277df050e819cb18137d1/output/AndroidManifest.xml:11:13-77

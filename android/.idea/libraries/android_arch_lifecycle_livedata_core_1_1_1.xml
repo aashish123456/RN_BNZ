@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="android.arch.lifecycle:livedata-core-1.1.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/82883043411a2165c7b833d713f4a4d39fdff45c/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/82883043411a2165c7b833d713f4a4d39fdff45c/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

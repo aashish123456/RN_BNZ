@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.facebook.fresco:imagepipeline-1.10.0">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/f12ed9cccdcc0e5ea1e8dd33093b5c80a89b8b4a/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/f12ed9cccdcc0e5ea1e8dd33093b5c80a89b8b4a/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

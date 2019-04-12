@@ -1,0 +1,47 @@
+{
+  "name": "BNZCrusaders",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest-haste-map": "^24.0.0",
+    "jest-serializer": "^24.0.0",
+    "jest-worker": "^24.0.0",
+    "moment": "^2.24.0",
+    "react": "16.6.3",
+    "react-devtools-core": "^3.6.1",
+    "react-native": "0.58.4",
+    "react-native-camera": "^1.10.2",
+    "react-native-check-box": "^2.1.7",
+    "react-native-confetti": "^0.1.0",
+    "react-native-fbsdk": "^0.8.0",
+    "react-native-firebase": "^5.2.2",
+    "react-native-flip-card": "^3.5.2",
+    "react-native-image-picker": "^0.26.7",
+    "react-native-keyboard-aware-scroll-view": "^0.8.0",
+    "react-native-loading-spinner-overlay": "^1.0.1",
+    "react-native-segmented-control-tab": "^3.4.0",
+    "react-native-share": "^1.0.26",
+    "react-native-splash-screen": "^3.0.6",
+    "react-native-super-grid": "^3.0.1",
+    "react-navigation": "^1.0.0-beta.27"
+  },
+  "devDependencies": {
+    "babel-core": "7.0.0-bridge.0",
+    "babel-jest": "24.1.0",
+    "jest": "24.1.0",
+    "metro-react-native-babel-preset": "0.51.1",
+    "react-test-renderer": "16.6.3"
+  },
+  "jest": {
+    "preset": "react-native"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  }
+}

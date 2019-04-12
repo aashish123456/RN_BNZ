@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.google.firebase:firebase-invites-16.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/e70c5a0344c5890c6a1bdabcb0193012e427169e/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/e70c5a0344c5890c6a1bdabcb0193012e427169e/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

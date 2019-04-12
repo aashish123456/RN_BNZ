@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">549172284186-lgg0gstn2lp5mte139oo6skcvsqsqmg5.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://bnzcrusaders-d769e.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">549172284186</string>
+    <string name="google_api_key" translatable="false">AIzaSyBrNeR8yrkiIftuUdIVcGMAxAHS-vopqWM</string>
+    <string name="google_app_id" translatable="false">1:549172284186:android:d5ca9f29cef2221b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBrNeR8yrkiIftuUdIVcGMAxAHS-vopqWM</string>
+    <string name="google_storage_bucket" translatable="false">bnzcrusaders-d769e.appspot.com</string>
+    <string name="project_id" translatable="false">bnzcrusaders-d769e</string>
+</resources>
